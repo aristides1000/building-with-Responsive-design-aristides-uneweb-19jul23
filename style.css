@@ -117,10 +117,6 @@ img {
   border-left: 1px solid var(--gray-two);
 }
 
-.flex-grow-search {
-  flex-grow: 9;
-}
-
 /* end mobile screen style */
 
 /* tablet screen style */
@@ -193,6 +189,10 @@ img {
 
   .link-item-bottom-navbar:hover {
     color: black;
+  }
+
+  .icon-menu-outline {
+    display: none;
   }
 }
 
